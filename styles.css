@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=K2D:wght@400;700&display=swap');
+
+body {
+    max-width: 900px;
+    margin: auto;
+    font-family: 'K2D', sans-serif;
+    background-color: #8bc34a;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #000000;
+}
+
+body .container {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #000000;
+}
+
+#output-box {
+    padding: 1rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: #000000;
+}
